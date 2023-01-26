@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-Developing-brightgreen">
-</p>
 
+<img src="https://img.shields.io/badge/STATUS-Developing-brightgreen">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wilberth-cl/wilberth-cl">
