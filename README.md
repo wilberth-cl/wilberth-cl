@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/STATUS-Developing-brightgreen">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wilberth-cl/wilberth-cl">
 
-#🌱 I’m currently learning ...
-
 * blog-vra is a simple example of a SPA, developed with [**_Vite template react_**](https://github.com/vitejs/vite)
 
 [![Go gh-page](https://img.shields.io/badge/Go_to_Github_Page-blog--vra.github.io-blue)](https://wilberth-cl.github.io/blog-vra/)
@@ -27,3 +25,8 @@ Here are some ideas to get you started:
 * blog-cra is a simple example of a SPA, developed with [**_create-react-app_**](https://github.com/facebook/create-react-app)
 
 [![Go gh-page](https://img.shields.io/badge/Go_to_Github_Page-blog--cra.github.io-blue)](https://wilberth-cl.github.io/blog-cra/)
+
+* shortcuts to work apps 
+
+[![Go gh-page](WorkApps en GitHub Pages https://wilberth-cl.github.io/workapps/)
+
