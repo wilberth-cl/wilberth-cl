@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 * shortcuts to work apps 
 
-[![Go gh-page](WorkApps en GitHub Pages https://wilberth-cl.github.io/workapps/)
+[![Go gh-page](WorkApps en GitHub Pages https://wilberth-cl.github.io/workapps/)]
 
